@@ -1,4 +1,4 @@
 # NeedleWeedingRobot
 
-<iframe width="956" height="538" src="https://youtu.be/w8JAFOLI-3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://github.com/Mr-TalhaIlyas/Plant-Disease-Detector-Flask-Server-Deep-Learning-Backend/blob/master/screens/usage.gif)](https://youtu.be/w8JAFOLI-3o)
 
